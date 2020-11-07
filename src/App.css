@@ -1,0 +1,12 @@
+#main{
+    text-align: center;
+    text-shadow: 0cm;
+    color: white;
+    background-color: lightseagreen;
+    font-weight: 900;
+    font-size: 3rem;
+}
+*root{
+    background-color: #fafafa;
+    height: 100vh;
+}
